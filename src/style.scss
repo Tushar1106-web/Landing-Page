@@ -1,0 +1,9 @@
+@import "../public/assets/scss/style.scss";
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'swiper/css';
+
+@media (min-width: 1200px) {
+    .container {
+      max-width: 1140px !important;
+    }
+}
